@@ -8,7 +8,7 @@ const mySym=Symbol('mykey1') //symbol declare
 const JSUser={
     name:"chirag", //key:value
     age:21,
-    [mySym]:'chirag senma',//symbel declare in object with usnig square bracket
+    [mySym]:'chirag senma',//symbol declare in object with usnig square bracket
     location:'Piludar',
     email:"chirag@gmail.com",
     isLoggedIn:false,
